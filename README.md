@@ -1,5 +1,7 @@
 # Cat Tinder
 
+March 2024
+
 This is an instructional demo of a project at LEARN Academy, a web development bootcamp. The purpose of this application is to expose students to their first decoupled full-stack application. The frontend is a React app that makes requests to a separate Rails API.
 
 ## 🐱 Cat Tinder Project Description
