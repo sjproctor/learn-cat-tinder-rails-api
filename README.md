@@ -4,18 +4,17 @@ This is an instructional demo of a project at LEARN Academy, a web development b
 
 ## 🐱 Cat Tinder Project Description
 
-As a developer, I have been commissioned to create an application where a user can see cute cats looking for friends. As a user, I can see a list of cats. I can click on a cat and see more information about that cat. I can also add cats to the list of cats looking for friends. If my work is acceptable to my client, I may also be asked to add the ability to remove a cat from the list as well as edit cat information.
+A decoupled, full-stack application in React and Ruby on Rails API. 
 
-## ⚡️ Quick Start
+## ⚡️ Getting Started
 
-First clone the repository. Then within the root of the project directory, run:
+First, clone the repository. Then within the root of the project directory, run:
 
 ```bash
-yarn
 bundle
 ```
 
-## 🗄️ Configure Back-End
+## 🗄️ Configure Backend
 
 Next, create and seed your databases with these commands:
 
